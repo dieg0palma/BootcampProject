@@ -8,8 +8,8 @@ README PT-BR
 uma empresa ficticia, receberiam em seu holerite uma comissão.
     Nessa comissão, a pessoa tem a opção de receber até 20% dela em criptomoeda
 (podendo ser escolhido BitCoin ou LiteCoin).
-    Por fim, as informações referentes ao holerite e à comissão são armazenadas em 
-um arquivo .csv.
+    No fim, as informações referentes ao holerite e à comissão são armazenadas 
+em um arquivo .csv.
 
 README EN
 
